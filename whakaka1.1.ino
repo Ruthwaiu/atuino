@@ -5,7 +5,7 @@
  */
 #include "FastLED.h"
 
-//E hia ngā LED kei runga i tō taura RGB?
+//E hia ngā LED kei runga i te taura RGB?
 #define KAUTE_LED 1
 
 //Whakarite i te pine Atuino ka whakamahia
